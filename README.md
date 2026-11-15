@@ -199,7 +199,6 @@ cd BrainStormers-CampusConnect
 g++ main.cpp backend/Auth.cpp backend/CampusConnect.cpp backend/FileHandler.cpp backend/Student.cpp -o CampusConnect.exe
 ```
 
-> Add any additional `.cpp` files if required by your project.
 
 ### Step 4: Run the Backend
 
@@ -254,7 +253,6 @@ Alternatively, you can use the **Live Server extension in Visual Studio Code**.
 
 ## 🔮 Future Improvements
 
-- 🔎 Student search functionality
 - 🤝 Skill-based student recommendations
 - 💬 Improved chat functionality
 - 🔐 Enhanced authentication and security

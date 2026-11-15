@@ -196,7 +196,7 @@ cd BrainStormers-CampusConnect
 ### Step 3: Compile the Backend
 
 ```bash
-g++ main.cpp backend/Auth.cpp backend/CampusConnect.cpp backend/FileHandler.cpp backend/Student.cpp -o CampusConnect.exe
+g++ backend/main.cpp backend/Auth.cpp backend/CampusConnect.cpp backend/FileHandler.cpp backend/Student.cpp -o CampusConnect.exe
 ```
 
 
